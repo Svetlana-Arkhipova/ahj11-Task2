@@ -1,0 +1,16 @@
+.row {
+    display: flex;
+    flex-direction: row; 
+}
+
+.cell {
+    border: 1px solid grey;
+    width: 140px;
+    height: 140px;
+}
+
+.goblin {
+  background-image: url(images/goblin.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+}
